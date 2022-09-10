@@ -1,0 +1,12 @@
+{
+  "name": "armor-builder",
+  "version": "1.0.0",
+  "description": "mhw armor set builder",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
